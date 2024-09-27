@@ -460,3 +460,4 @@ git status
 crontab -e
 date
 echo "hello"
+history
