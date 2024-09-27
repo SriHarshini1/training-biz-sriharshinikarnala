@@ -403,3 +403,55 @@ vi push_history.sh
 chmod +x training-biz-sriharshini/push_history.sh
 chmod +x push_history.sh
 exit
+sudo su -
+crontab -e
+git clone git@github.com:SriHarshini1/training-biz-sriharshinikarnala.git
+cd training-biz-sriharshinikarnala
+touch history.sh
+vi history.sh 
+chmod +x  training-biz-sriharshinikarnala/history.sh
+chmod +x history.sh
+sudo bash
+cd ..
+crontab -e
+history
+vi history.sh
+ chmod +x push_history.sh
+ chmod +x history.sh
+sudo su -
+crontab -e
+./history.sh 
+vi history.sh
+./history.sh 
+vi history.sh
+./history.sh 
+crontab -e
+date
+varun
+dfd"ghg
+
+
+
+date
+crontab -e
+./history.sh
+git remote -v
+cd /training-biz-sriharshinikarnala
+cd /training-biz-sriharshinikarnala/
+cd training-biz-sriharshinikarnala
+git remote -v
+git branch -vv
+git status
+vi history.sh
+./history.sh
+crontab -e
+cd ..
+crontab -e
+cd..
+crontab -e
+vi history.sh
+./history.sh
+sudo bash
+./history.sh
+crontab -e
+source ~/.bashrc
