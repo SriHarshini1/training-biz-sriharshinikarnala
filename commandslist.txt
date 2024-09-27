@@ -470,3 +470,4 @@ history
 crontab -e
 history -5
 history 5
+history
