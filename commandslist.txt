@@ -467,3 +467,5 @@ cat history.sh
 history
 vi ~/.bash_history
 history
+crontab -e
+history -5
