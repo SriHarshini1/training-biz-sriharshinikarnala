@@ -464,3 +464,4 @@ history
 crontab -e
 ./history.sh
 cat history.sh
+history
