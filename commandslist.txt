@@ -457,3 +457,4 @@ crontab -e
 source ~/.bashrc
 ./history.sh
 git status
+crontab -e
