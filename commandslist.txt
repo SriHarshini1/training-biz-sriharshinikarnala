@@ -465,3 +465,5 @@ crontab -e
 ./history.sh
 cat history.sh
 history
+vi ~/.bash_history
+history
