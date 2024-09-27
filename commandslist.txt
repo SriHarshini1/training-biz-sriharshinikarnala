@@ -1,0 +1,405 @@
+sudo su -
+echo "hello linux"
+sudo su -
+notepad C:\Users\sriharshini.karnala\.ssh\config
+exit
+cd .ssh
+ls
+vi
+vi authorized_keys 
+ssh ec2-user@16.171.241.235
+cat /etc/redhat-release
+df -ah
+free -g
+free -m
+top
+sudo yum update
+java -version
+sudo yum install java-17-openjdk
+java -version
+sudo yum install wget
+java -version
+wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm?AuthParam=1727090600_3f79ce3ef4038a36e00462bdc9c1ecb4
+wget https://www.oracle.com/in/database/technologies/xe-downloads.html
+wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm?AuthParam=1727090600_3f79ce3ef4038a36e00462bdc9c1ecb4 -O oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm?AuthParam=1727091399_252836c9bd63bb8dc08e9a190066f62c
+ ls
+rm xe-downloads.html
+ls
+ls -l
+ls -lh
+rm '
+rm 'oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm?AuthParam=1727091399_252836c9bd63bb8dc08e9a190066f62c'
+ls
+curl https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm?AuthParam=1727091399_252836c9bd63bb8dc08e9a190066f62c
+history
+ls
+sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+ls -l
+rm oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+ls
+ls -l
+curl -L -O "https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm?AuthParam=1727092592_93c5170934c5ecca299c6da0ff8915fb"
+ls -l oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+ls -l
+mv 'oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm?AuthParam=1727092592_93c5170934c5ecca299c6da0ff8915fb' oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+ls 
+sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+ls -lh oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+rm oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+wget --no-check-certificate "https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm?AuthParam=1727092592_93c5170934c5ecca299c6da0ff8915fb" -O oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+curl -L -o oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm "https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm?AuthParam=1727093094_6acb9c39bb841a9758c1af0392a50ecb"
+ls -lh oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+sudo yum install -y oracle-database-preinstall-21c
+ls
+ls -l
+sudo nano /etc/yum.repos.d/oracle-linux.repo
+clean
+clear
+ls -l
+ls
+sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+sudo vi /etc/yum.repos.d/oracle-linux.repo
+sudo yum clean all
+sudo yum makecache
+sudo vi /etc/yum.repos.d/oracle-linux.repo
+sudo yum clean all
+sudo rm -f /etc/yum.repos.d/oracle-linux.repo
+sudo vi /etc/yum.repos.d/oracle-linux.repo
+sudo yum clean all
+sudo yum makecache
+sudo rm -f /etc/yum.repos.d/oracle-linux.repo
+sudo vi /etc/yum.repos.d/oracle-linux.repo
+sudo yum clean all
+sudo yum makecache
+ls
+sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+ls -lh
+ls
+wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm\
+ls
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+ls
+rm oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+wget https://www.oracle.com/database/technologies/oracle21c-linux-downloads.html#license-lightbox
+ls
+wget https://download.oracle.com/otn/linux/oracle21c/oracle-database-ee-21c-1.0-1.ol8.x86_64.rpm
+ls
+rm oracle21c-linux-downloads.html
+rm oracle-database-ee-21c-1.0-1.ol8.x86_64.rpm
+ls
+wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+ls
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+sudo yum install epel-release
+sudo rpm --import https://yum.oracle.com/RPM-GPG-KEY-oracle-ol9
+sudo yum clean all
+sudo yum install epel-release
+sudo yum install compat-openssl10
+sudo yum clean all
+sudo yum repolist
+sudo grep -r "ol9_appstream" /etc/yum.repos.d/
+sudo nano /etc/yum.repos.d/oracle-linux-ol9.repo
+sudo vi /etc/yum.repos.d/oracle-linux-ol9.repo
+sudo yum clean all
+sudo yum repolist
+sudo yum install compat-openssl10
+sudo yum list available | grep openssl
+sudo yum install compat-openssl11
+ls
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+ls
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm -y
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm --skip-broken -y
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm --nobest -y
+wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+sudo yum localinstall compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm -y
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm -y
+ls
+sudo yum localinstall  oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+sudo yum localinstall  oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm -y
+ls
+sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+history
+sudo /etc/init.d/oracle-xe-21c configure
+cd /opt/oracle/product/21c/dbhomeXE/dbs
+sudo vi initXE.ora
+sudo vi /opt/oracle/product/21c/dbhomeXE/dbs/initXE.ora
+sudo /etc/init.d/oracle-xe-21c configure
+sudo cat /opt/oracle/cfgtoollogs/dbca/*log
+sudo ls /opt/oracle/product/21c/dbhomeXE/install
+sudo cat /opt/oracle/product/21c/dbhomeXE/install/root_ip-172-31-24-180.eu-north-1.compute.internal_2024-09-23_17-55-07-702851442.log
+sudo groupadd oinstall
+sudo useradd -g oinstall oracle_xe
+sudo chown -R oracle_xe:oinstall /opt/oracle
+sudo /etc/init.d/oracle-xe-21c configure
+sudo chown -R oracle_xe:oinstall /opt/oracle/cfgtoollogs
+sudo chmod -R 755 /opt/oracle/cfgtoollogs
+sudo /etc/init.d/oracle-xe-21c configure
+sudo chown -R oracle_xe:oinstall /opt/oracle
+sudo chmod -R 775 /opt/oracle/cfgtoollogs
+ls -ld /opt/oracle/cfgtoollogs
+ls -ld /opt/oracle
+ls -ld /opt/oracle/cfgtoollogs/netca
+sudo touch /opt/oracle/cfgtoollogs/netca/netca_configure_out.log
+sudo chown oracle_xe:oinstall /opt/oracle/cfgtoollogs/netca/netca_configure_out.log
+sudo chmod 664 /opt/oracle/cfgtoollogs/netca/netca_configure_out.log
+sudo /etc/init.d/oracle-xe-21c configure
+sudo cat /opt/oracle/cfgtoollogs/netca/netca_configure_out.log
+sudo su - oracle_xe
+sudo su -
+sudo /etc/init.d/oracle-xe-21c configure
+sudo cat /opt/oracle/cfgtoollogs/netca/netca_configure_out.log
+ls ../
+sudo chown -R oracle_xe:oinstall /opt/oracle
+sudo /etc/init.d/oracle-xe-21c configure
+history
+cd $ORACLE_HOME/
+ls
+cd
+cd /opt/oracle/product/21c/dbhomeXE/
+ls
+cd 
+cd /opt/oracle/product/21c/dbhomeXE/deinstall
+ls
+./deinstall
+sudo ./deinstall
+sudo su oracle
+sudo su oracle_xe
+ls
+cd 
+ls
+sudo rm -rf ../oracle
+sudo rm -rf ../oracle_xe/
+ls ../
+sudo yum localinstall compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm 
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm -y
+sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm -y
+ls ../
+ls /opt/
+yum -y remove oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm 
+sudo yum -y remove oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm 
+sudo yum -y remove oracle-database-preinstall-21c
+sudo yum -y remove oracle-database-xe-21c-1.0-1.x86_64
+sudo /etc/init.d/oracle-xe-21c stop
+sudo yum remove oracle-database-xe-21c
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm -y
+ls ../
+sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm -y
+sudo rpm -e --noscripts oracle-database-xe-21c
+ls /opt/
+sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm -y
+sudo rm -rf /opt/oracle/product/21c/dbhomeXE
+sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm -y
+rm -rf /opt/oracle
+sudo rm -rf /opt/oracle
+ls /opt/
+sudo rm -rf /opt/ORCLfmap
+ls /opt/
+sudo yum localinstall compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm 
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm 
+sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm -y
+sudo /etc/init.d/oracle-xe-21c configure
+sudo vi $ORACLE_HOME/cv/admin/cvu_config
+rm $ORACLE_HOME/cv/admin/cvu_config
+ls /cv
+sudo vi /opt/oracle/product/21c/dbhomeXE/cv/admin/cvu_config
+sudo /etc/init.d/oracle-xe-21c configure
+sudo yum install tmux
+env | grep histsize
+env | grep HISTSIZE
+cd /opt
+ls
+cd /opt/oracle
+cd /opt/oracle/
+cd ..
+cd /opt/oracle/
+ls
+export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
+export ORACLE_SID=XE
+echo $PATH
+export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin
+env
+env | grep ORACLE
+sqlplus
+sqlplus
+export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
+export ORACLE_SID=XE
+export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin
+which sqlplus
+sqlplus sys as sysdba
+sqlplus
+history
+vi .bash_profile
+source ~/.bash_profile
+sqlplus
+su-
+su -
+sudo bash
+sqlplus
+su bash
+sudo bash
+history
+sudo vi /opt/oracle/product/21c/dbhomeXE/cv/admin/cvu_config
+history
+vi .bash_profile
+sudo bash
+sqlplus
+sudo bash
+cat .bash_profile
+sqlplus
+netstat -ltnp
+sqlplus
+lsnrctl start
+chmod 777 /opt/oracle/product/21c/dbhomeXE/network/log
+sudo systemctl start oracle-xe-21c
+sudo chmod 777 /opt/oracle/product/21c/dbhomeXE/network/log
+sudo lsnrctl start
+export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin
+sudo lsnrctl start
+exit
+sudo su-
+su -
+sudo su-
+sudo su -
+cat $ORACLE_HOME/network/admin/samples/listener.ora
+~/.bash_profile
+source ~/.bash_profile
+sqlplus
+vi $ORACLE_HOME/network/admin/samples/listener.ora
+sudo vi $ORACLE_HOME/network/admin/samples/listener.ora
+lsnrctl start
+netstat -ltnp
+sqlplus
+netstat -ltnp
+sudo bash
+source ~/.bash_profile
+sqlplus
+env
+sqlplus
+sudo bash
+env
+sudo service oracle-xe-21c start
+ls
+sqlplus
+cd ..
+sudo -i
+env
+ls
+home
+cd home
+ls
+cd ec2-user
+ls
+sqlplus
+cd home
+ls
+imp classicmodels/classicmodels123 FULL=y File=./classicmodels.dmp
+sqlplus
+history
+source ~/.bash_profile
+sqlplus
+history
+sudo service oracle-xe-21c start
+source ~/.bash_profile
+sqlplus
+ export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
+ export ORACLE_SID=XE
+ export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin
+sqlplus
+history
+sudo service oracle-xe-21c start
+sudo bash
+sudo service oracle-xe-21c stop
+sudo service oracle-xe-21c start
+cd  /opt/oracle/product/21c/dbhomeXE/bin
+ls -al
+exit
+sqlplus
+sudo service oracle-xe-21c start
+sqlplus
+history
+ lsnrctl start
+exit
+sudo su-
+sudo su -
+sudo service oracle-xe-21c start
+sqlplus
+git clone https://github.com/SriHarshini1/training-biz-sriharshini
+sudo yum install git
+git clone https://github.com/SriHarshini1/training-biz-sriharshini
+CD training-biz-sriharshini
+cd training-biz-sriharshini
+nano git_cronjob.sh
+vi git_cronjob.sh
+pwd
+vi git_cronjob.sh
+chmod +x git_cronjob.sh
+crontab -e
+grep CRON /var/log/cron
+sudo grep CRON /var/log/cron
+crontab -l
+sudo service oracle-database-xe-21c start
+ls /etc/init.d/
+sudo service oracle-xe-21c start
+sqlplus
+ls
+sudo service oracle-xe-21c start
+sqlplus
+sudo vi $ORACLE_HOME/cv/admin/cvu_config
+sudo lsnrctl status
+sudo service oracle-xe-21c start
+sudo systemctl daemon-reload
+sudo systemctl enable oracle-xe-21c
+env | GREP ORACLE
+env
+sql plus
+env
+sqlplus
+ls
+source ~/.bash_profile
+sudo service oracle-xe-21c start
+sudo service oracle-xe-21c restart
+sqlplus
+ls
+sudo service oracle-xe-21c restart
+history
+ vi git_cronjob.sh
+ls
+cd training-biz-sriharshini/
+ls
+vi git_cronjob.sh 
+ls
+source git_cronjob.sh
+exit
+ssh-keygen -t rsa -b 4096 -C"sriharshini.karnala@bizacuity.com"
+cat /home/ec2-user/.ssh/id_rsa.pub
+source git_cronjob.sh
+ls
+cd training-biz-sriharshini/
+source git_cronjob.sh
+./git_cronjob.sh 
+exit
+ls
+rm training-biz-sriharshini/
+cd training-biz-sriharshini/
+ls
+rm git_cronjob.sh
+ls
+rm commandslist.txt
+rm README.md 
+CD..
+cd..
+exit
+ls
+rm -rf training-biz-sriharshini
+ls
+git clone git@github.com:SriHarshini1/training-biz-sriharshini.git
+cd training-biz-sriharshini
+ls
+touch push_history.sh
+vi push_history.sh 
+chmod +x training-biz-sriharshini/push_history.sh
+chmod +x push_history.sh
+exit
