@@ -455,3 +455,5 @@ sudo bash
 ./history.sh
 crontab -e
 source ~/.bashrc
+./history.sh
+git status
