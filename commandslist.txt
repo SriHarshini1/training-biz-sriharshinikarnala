@@ -526,3 +526,4 @@ ls
 cd dir1
 ls
 cat prac1
+cp prac1 dir2/
