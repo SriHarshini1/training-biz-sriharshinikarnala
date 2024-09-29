@@ -572,3 +572,7 @@ ls
 cd ..
 cd dir2
 ls
+cd ..
+cd dir1
+mv prac1 pract1
+ls
