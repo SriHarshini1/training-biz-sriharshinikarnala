@@ -478,3 +478,4 @@ date +%D
 date +%T
 date +%H:%M
 date +%H:%S
+ls
