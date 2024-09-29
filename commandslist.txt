@@ -519,3 +519,10 @@ vi prac1
 cp prac1 dir2/
 cd /
 ls
+cd home/
+ls
+cd ec2-user
+ls
+cd dir1
+ls
+cat prac1
