@@ -491,3 +491,6 @@ nano practice
 vi practice
 nano practice
 ls
+cd training-biz-sriharshinikarnala/
+ls
+cd history.sh
