@@ -473,3 +473,8 @@ history 5
 history
 pwd
 whoami
+date
+date +%D
+date +%T
+date +%H:%M
+date +%H:%S
