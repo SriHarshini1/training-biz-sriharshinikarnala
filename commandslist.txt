@@ -494,3 +494,5 @@ ls
 cd training-biz-sriharshinikarnala/
 ls
 cd history.sh
+cd../..
+cd ../..
