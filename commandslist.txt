@@ -484,3 +484,5 @@ cat history.sh
 less file1
 ls
 ls training-biz-sriharshinikarnala
+ls commandslist.txt
+ls history.sh
