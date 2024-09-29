@@ -479,3 +479,5 @@ date +%T
 date +%H:%M
 date +%H:%S
 ls
+less history.sh
+cat history.sh
