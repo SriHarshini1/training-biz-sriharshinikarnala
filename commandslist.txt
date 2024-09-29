@@ -581,3 +581,4 @@ ls
 vi pract1
 head -5 pract1
 cat pract1
+sort pract1
