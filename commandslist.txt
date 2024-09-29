@@ -530,3 +530,7 @@ cp prac1 dir2/
 cd ..
 ls -ld dir2
 cp prac1 dir2/
+cp dir1/prac1 dir2/
+cd dir2
+ls
+cp ../prac1/dir1
