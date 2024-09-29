@@ -509,3 +509,8 @@ ls
 cd..
 cd ..
 cd dir2
+ls
+cd ..
+cd dir1
+mv dir2 prac1
+ls
