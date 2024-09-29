@@ -583,3 +583,8 @@ head -5 pract1
 cat pract1
 sort pract1
 sort -r pract1
+vi pract1
+cat pract1
+sort pract1 |uniq
+sort pract1 |UNIQ
+sort pract1 | UNIQ
