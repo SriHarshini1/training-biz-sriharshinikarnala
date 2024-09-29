@@ -591,3 +591,4 @@ sort pract1 | UNIQ
 sort pract1 | uniq
 cd pract1
 cat pract1
+sort pract1|uniq
