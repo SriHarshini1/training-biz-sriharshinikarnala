@@ -496,3 +496,6 @@ ls
 cd history.sh
 cd../..
 cd ../..
+cd/
+cd /
+ls
