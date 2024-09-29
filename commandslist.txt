@@ -490,3 +490,4 @@ less history.sh
 nano practice
 vi practice
 nano practice
+ls
