@@ -514,3 +514,4 @@ cd ..
 cd dir1
 mv dir2 prac1
 ls
+touch prac2
