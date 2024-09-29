@@ -527,3 +527,5 @@ cd dir1
 ls
 cat prac1
 cp prac1 dir2/
+cd ..
+ls -ld dir2
