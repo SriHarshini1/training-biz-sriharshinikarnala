@@ -486,3 +486,4 @@ ls
 ls training-biz-sriharshinikarnala
 ls commandslist.txt
 ls history.sh
+less history.sh
