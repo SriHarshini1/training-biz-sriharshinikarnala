@@ -541,3 +541,7 @@ ls
 cd ..
 cd dir2
 ls
+cat prac1
+rm prac1
+ls
+cd ..
