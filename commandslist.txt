@@ -488,3 +488,5 @@ ls commandslist.txt
 ls history.sh
 less history.sh
 nano practice
+vi practice
+nano practice
