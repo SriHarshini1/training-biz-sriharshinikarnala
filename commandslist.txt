@@ -503,3 +503,9 @@ mkdir dir1 dir2
 cd dir1
 touch prac1
 ls
+prac1 dir2
+mv prac1 dir2
+ls
+cd..
+cd ..
+cd dir2
