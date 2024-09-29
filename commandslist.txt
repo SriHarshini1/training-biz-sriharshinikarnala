@@ -472,3 +472,4 @@ history -5
 history 5
 history
 pwd
+whoami
