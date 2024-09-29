@@ -534,3 +534,10 @@ cp dir1/prac1 dir2/
 cd dir2
 ls
 cp ../prac1/dir1
+cp prac1 ../dir1/
+cd ..
+cd dir1
+ls
+cd ..
+cd dir2
+ls
