@@ -516,3 +516,6 @@ mv dir2 prac1
 ls
 touch prac2
 vi prac1
+cp prac1 dir2/
+cd /
+ls
