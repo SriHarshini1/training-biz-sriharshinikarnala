@@ -560,3 +560,10 @@ cat prac2
 ls
 cd dir1
 ls
+cd dir2
+ls
+cd ..
+cd dir2
+ls
+mv prac1 ../dir1/
+cd ..
