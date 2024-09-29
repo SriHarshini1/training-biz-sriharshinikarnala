@@ -576,3 +576,7 @@ cd ..
 cd dir1
 mv prac1 pract1
 ls
+vi prac1
+ls
+vi pract1
+head -5 pract1
