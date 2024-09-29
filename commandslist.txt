@@ -557,3 +557,6 @@ cp dir2/prac1 dir1/prac2
 cd dir1
 ls
 cat prac2
+ls
+cd dir1
+ls
