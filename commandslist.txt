@@ -545,3 +545,9 @@ cat prac1
 rm prac1
 ls
 cd ..
+mv dir1/prac1 dir2/
+cd dir1
+ls
+cd ..
+cd dir2
+ls
