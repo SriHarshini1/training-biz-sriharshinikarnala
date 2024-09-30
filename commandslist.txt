@@ -628,3 +628,4 @@ ls
 gunzip archive.zip
 ls
 unzip archive.zip
+ls
