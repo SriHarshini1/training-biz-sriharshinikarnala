@@ -602,3 +602,4 @@ cd ..
 cd dir1
 ls
 cat prac2
+sed 's/what/wt/' prac2
