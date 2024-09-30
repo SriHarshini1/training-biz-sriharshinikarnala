@@ -615,3 +615,5 @@ df -ah
 top
 uname -a
 hostname
+cd dir1
+ls
