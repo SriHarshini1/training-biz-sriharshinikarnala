@@ -613,3 +613,4 @@ cd ..
 du -h
 df -ah
 top
+uname -a
