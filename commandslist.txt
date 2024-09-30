@@ -656,3 +656,7 @@ vi practicewc
 cat practicewc 
 cd ..
 ls
+grep -ri -o 'cat' | wc -l
+grep -ri -o 'cat' . | wc -l
+grep -ri -o 'cat' .
+grep -ri -o 'mat' . 
