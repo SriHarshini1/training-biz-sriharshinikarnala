@@ -643,3 +643,6 @@ cd pract1
 wc -l 
 wc pract1
 cat pract1
+vi pract1
+cat pract1
+wc pract1
