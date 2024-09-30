@@ -648,3 +648,7 @@ cat pract1
 wc pract1
 grep -ri -o 'cat' .
 grep -ri -o 'cat' . |wc -l
+cd ..
+cd dir2
+ls
+touch practicewc
