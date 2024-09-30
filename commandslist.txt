@@ -627,3 +627,4 @@ zip archive.zip pract1 prac2
 ls
 gunzip archive.zip
 ls
+unzip archive.zip
