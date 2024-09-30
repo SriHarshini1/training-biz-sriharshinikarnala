@@ -661,3 +661,6 @@ grep -ri -o 'cat' . | wc -l
 grep -ri -o 'cat' .
 grep -ri -o 'mat' . 
 cat ./training-biz-sriharshinikarnala/.git/config
+grep 'mat' ./training-biz-sriharshinikarnala/.git/config
+grep -ri -o 'mat' . | wc -l
+grep -ri -o 'mat' . | wc -w
