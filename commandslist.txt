@@ -619,3 +619,8 @@ cd dir1
 ls
 zip archive pract1
 zip archive.zip pract1
+ls
+cat archieve.zip
+rm archieve.zip
+rm archive.zip
+zip archive.zip pract1 prac2
