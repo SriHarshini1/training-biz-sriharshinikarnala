@@ -614,3 +614,4 @@ du -h
 df -ah
 top
 uname -a
+hostname
