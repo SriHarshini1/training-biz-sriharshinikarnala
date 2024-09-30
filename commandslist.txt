@@ -646,3 +646,5 @@ cat pract1
 vi pract1
 cat pract1
 wc pract1
+grep -ri -o 'cat' .
+grep -ri -o 'cat' . |wc -l
