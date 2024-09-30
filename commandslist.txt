@@ -636,3 +636,4 @@ ps -ef
 ls
 cd dir1
 ls
+vi pract1
