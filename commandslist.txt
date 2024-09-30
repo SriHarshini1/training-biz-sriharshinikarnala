@@ -633,3 +633,6 @@ tar -cvf archive_tarfile.tar prac2 pract1
 ls
 yum check-update
 ps -ef
+ls
+cd dir1
+ls
