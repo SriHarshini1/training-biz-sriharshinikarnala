@@ -652,3 +652,7 @@ cd ..
 cd dir2
 ls
 touch practicewc
+vi practicewc 
+cat practicewc 
+cd ..
+ls
