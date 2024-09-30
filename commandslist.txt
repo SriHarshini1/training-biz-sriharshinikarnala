@@ -640,3 +640,6 @@ vi pract1
 wc -l
 cd prac1
 cd pract1
+wc -l 
+wc pract1
+cat pract1
