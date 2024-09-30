@@ -612,3 +612,4 @@ du -h
 cd ..
 du -h
 df -ah
+top
