@@ -617,3 +617,5 @@ uname -a
 hostname
 cd dir1
 ls
+zip archive pract1
+zip archive.zip pract1
