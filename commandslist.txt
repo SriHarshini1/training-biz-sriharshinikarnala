@@ -592,3 +592,12 @@ sort pract1 | uniq
 cd pract1
 cat pract1
 sort pract1|uniq
+ls
+cd dir1
+ls
+cat pract1
+cd ..
+cd dir2
+cd ..
+cd dir1
+ls
