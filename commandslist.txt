@@ -611,3 +611,4 @@ cd..
 du -h
 cd ..
 du -h
+df -ah
