@@ -604,3 +604,4 @@ ls
 cat prac2
 sed 's/what/wt/' prac2
 sed 's/wt are/what r/' prac2
+sed 's/what are/wt r/' prac2
